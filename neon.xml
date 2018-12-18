@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- NeonOs remote -->
+  <remote name="neon"
+          fetch="https://github.com/Project-NeonOs"
+          revision="refs/heads/neon-9.x"
+          sync-j="16" />
+
+  <remote name="github"
+          fetch="https://github.com/" />
+		   
+  <!-- Removed projects -->	   
+  <include name="remove.xml" />
+
+  <!-- Imported projects -->
+  <include name="neon/build.xml" />
+  <include name="neon/devices.xml" />
+  <include name="neon/external.xml" />
+  <include name="neon/frameworks.xml" />
+  <include name="neon/hals.xml" />
+  <include name="neon/packages.xml" />
+  <include name="neon/prebuilts.xml" />
+  <include name="neon/system.xml" />
+  <include name="neon/vendors.xml" />
+
+</manifest>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project path="packages/apps/Bluetooth" name="platform_packages_apps_Bluetooth" remote="neon" />
+    <project path="packages/apps/Camera2" name="platform_packages_apps_Camera2" remote="neon" />
+    <project path="packages/apps/Dialer" name="platform_packages_apps_Dialer" remote="neon" />
+    <project path="packages/apps/DocumentsUI" name="platform_packages_apps_DocumentsUI" remote="neon" />
+    <project path="packages/apps/FMRadio" name="platform_packages_apps_FMRadio" remote="neon" />
+    <project path="packages/apps/Launcher3" name="platform_packages_apps_Launcher3" remote="neon" />
+    <project path="packages/apps/MiuiCamera" name="platform_packages_apps_MiuiCamera" remote="neon" />
+    <project path="packages/apps/PackageInstaller" name="platform_packages_apps_PackageInstaller" remote="neon" />
+    <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="neon" />
+	
+    <project path="packages/inputmethods/LatinIME" name="platform_packages_inputmethods_LatinIME" remote="neon" />
+    
+    <project path="packages/providers/MediaProvider" name="platform_packages_providers_MediaProvider" remote="neon" />
+    <project path="packages/services/Telephony" name="platform_packages_services_Telephony" remote="neon" />
+    <project path="packages/services/Telecomm" name="platform_packages_services_Telecomm" remote="neon" />
+
+</manifest>

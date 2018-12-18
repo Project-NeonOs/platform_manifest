@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project path="vendor/neon" name="platform_vendor_neon" remote="neon" />
+    <project path="vendor/qcom/opensource/dataservices" name="platform_vendor_qcom_opensource_dataservices" remote="neon" />
+    <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" remote="neon" />
+    <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom_opensource_dpm" remote="neon" />
+    <project path="vendor/qcom/opensource/audio" name="platform_vendor_qcom_opensource_audio" remote="neon" />
+    <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="neon" />
+
+</manifest>
